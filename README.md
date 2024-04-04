@@ -52,7 +52,7 @@ Server Started on port: 8000
 
 ### Starting client server
 
-In terminal navigate to the root of the project then execute below commands one by one
+Open a new terminal window, navigate to the root of the project and then execute below commands one by one
 
 ```bash
 cd client
